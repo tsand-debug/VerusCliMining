@@ -19,7 +19,7 @@
 	"user": "BC1QTX8JE957D-S9A2VG-M80AGNHR0GDH7Y88LOTP8-MU",
 	"pass": "x=BTC",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
